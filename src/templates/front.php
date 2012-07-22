@@ -1,0 +1,2 @@
+{% include 'a.php' %}
+{{ a }}
